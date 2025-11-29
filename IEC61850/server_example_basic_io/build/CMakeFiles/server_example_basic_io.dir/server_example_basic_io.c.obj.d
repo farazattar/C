@@ -1,0 +1,56 @@
+CMakeFiles/server_example_basic_io.dir/server_example_basic_io.c.obj: \
+ F:\Software\IEC61850\ Library\Codes\server_example_basic_io\server_example_basic_io.c \
+ C:/libiec61850-install/include/libiec61850/iec61850_server.h \
+ C:/libiec61850-install/include/libiec61850/mms_server.h \
+ C:/libiec61850-install/include/libiec61850/mms_value.h \
+ C:/libiec61850-install/include/libiec61850/libiec61850_common_api.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/stdlib.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/crtdefs.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_mac.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/vadefs.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include-fixed/limits.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include-fixed/syslimits.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/limits.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/malloc.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/stdarg.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/stdarg.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_stdarg.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/stdint.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/stdint.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/stddef.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/stddef.h \
+ C:/Strawberry/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/stdbool.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/string.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ C:/libiec61850-install/include/libiec61850/hal_time.h \
+ C:/libiec61850-install/include/libiec61850/hal_base.h \
+ C:/libiec61850-install/include/libiec61850/mms_common.h \
+ C:/libiec61850-install/include/libiec61850/mms_types.h \
+ C:/libiec61850-install/include/libiec61850/iso_connection_parameters.h \
+ C:/libiec61850-install/include/libiec61850/tls_config.h \
+ C:/libiec61850-install/include/libiec61850/tls_ciphers.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_dynamic_model.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_model.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_common.h \
+ C:/libiec61850-install/include/libiec61850/logging_api.h \
+ C:/libiec61850-install/include/libiec61850/linked_list.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_cdc.h \
+ C:/libiec61850-install/include/libiec61850/hal_filesystem.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_config_file_parser.h \
+ C:/libiec61850-install/include/libiec61850/hal_thread.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/signal.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/pthread_signal.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/stdio.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_push.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/swprintf.inl \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/_mingw_print_pop.h \
+ C:/Strawberry/c/x86_64-w64-mingw32/include/math.h \
+ F:\Software\IEC61850\ Library\Codes\server_example_basic_io\static_model.h \
+ C:/libiec61850-install/include/libiec61850/iec61850_model.h

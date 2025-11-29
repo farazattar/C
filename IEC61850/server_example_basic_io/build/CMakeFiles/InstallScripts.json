@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/Software/IEC61850 Library/Codes/server_example_basic_io/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
