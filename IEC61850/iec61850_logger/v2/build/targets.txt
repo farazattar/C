@@ -1,0 +1,7 @@
+# Example targets.txt - one entry per line: <objectRef> <FC>
+# Lines starting with # are comments
+#LD0/LLN0.Mod.stVal ST
+#LD0/LLN0.AnOut1.phsA.mag MV
+#LD0/TOTW.W.current MX
+DCSRelay/VI1GGIO137.ST.SPCSO
+DCSRelay/VI1GGIO137.ST.Mod
