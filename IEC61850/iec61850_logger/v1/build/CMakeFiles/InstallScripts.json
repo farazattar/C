@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"F:/Software/IEC61850 Library/Codes/iec61850_logger/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
