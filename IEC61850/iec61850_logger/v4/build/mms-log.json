@@ -1,0 +1,28 @@
+{"time":"2025-12-06T09:39:39Z","tag":"DCSRelay/VI1GGIO137.SPCSO.stVal","value":"FALSE"}
+{"time":"2025-12-06T09:39:39Z","tag":"DCSRelay/VI1GGIO137.SPCSO.q","value":"0000000000000"}
+{"time":"2025-12-06T09:39:39Z","tag":"DCSRelay/VI1GGIO137.SPCSO.t","value":"2025-12-02T22:52:57Z"}
+{"time":"2025-12-06T09:39:40Z","tag":"DCSRelay/VI1GGIO137.NamPlt.vendor","value":"Schneider Electric"}
+{"time":"2025-12-06T09:39:40Z","tag":"DCSRelay/VI1GGIO137.NamPlt.d","value":"Virtual input 1"}
+{"time":"2025-12-06T09:39:40Z","tag":"DCSRelay/LLN0.NamPlt.swRev","value":"V30.205"}
+{"time":"2025-12-06T09:39:40Z","tag":"DCSRelay/VampLPHD1.PhyNam.model","value":"P3U30-5AAA1BCAA"}
+{"time":"2025-12-06T09:39:42Z","tag":"DCSRelay/VI1GGIO137.SPCSO.stVal","value":"FALSE"}
+{"time":"2025-12-06T09:39:42Z","tag":"DCSRelay/VI1GGIO137.SPCSO.q","value":"0000000000000"}
+{"time":"2025-12-06T09:39:42Z","tag":"DCSRelay/VI1GGIO137.SPCSO.t","value":"2025-12-02T22:52:57Z"}
+{"time":"2025-12-06T09:39:42Z","tag":"DCSRelay/VI1GGIO137.NamPlt.vendor","value":"Schneider Electric"}
+{"time":"2025-12-06T09:39:43Z","tag":"DCSRelay/VI1GGIO137.NamPlt.d","value":"Virtual input 1"}
+{"time":"2025-12-06T09:39:43Z","tag":"DCSRelay/LLN0.NamPlt.swRev","value":"V30.205"}
+{"time":"2025-12-06T09:39:43Z","tag":"DCSRelay/VampLPHD1.PhyNam.model","value":"P3U30-5AAA1BCAA"}
+{"time":"2025-12-06T09:39:44Z","tag":"DCSRelay/VI1GGIO137.SPCSO.stVal","value":"FALSE"}
+{"time":"2025-12-06T09:39:45Z","tag":"DCSRelay/VI1GGIO137.SPCSO.q","value":"0000000000000"}
+{"time":"2025-12-06T09:39:45Z","tag":"DCSRelay/VI1GGIO137.SPCSO.t","value":"2025-12-02T22:52:57Z"}
+{"time":"2025-12-06T09:39:45Z","tag":"DCSRelay/VI1GGIO137.NamPlt.vendor","value":"Schneider Electric"}
+{"time":"2025-12-06T09:39:45Z","tag":"DCSRelay/VI1GGIO137.NamPlt.d","value":"Virtual input 1"}
+{"time":"2025-12-06T09:39:46Z","tag":"DCSRelay/LLN0.NamPlt.swRev","value":"V30.205"}
+{"time":"2025-12-06T09:39:46Z","tag":"DCSRelay/VampLPHD1.PhyNam.model","value":"P3U30-5AAA1BCAA"}
+{"time":"2025-12-06T09:39:47Z","tag":"DCSRelay/VI1GGIO137.SPCSO.stVal","value":"FALSE"}
+{"time":"2025-12-06T09:39:47Z","tag":"DCSRelay/VI1GGIO137.SPCSO.q","value":"0000000000000"}
+{"time":"2025-12-06T09:39:48Z","tag":"DCSRelay/VI1GGIO137.SPCSO.t","value":"2025-12-02T22:52:57Z"}
+{"time":"2025-12-06T09:39:48Z","tag":"DCSRelay/VI1GGIO137.NamPlt.vendor","value":"Schneider Electric"}
+{"time":"2025-12-06T09:39:48Z","tag":"DCSRelay/VI1GGIO137.NamPlt.d","value":"Virtual input 1"}
+{"time":"2025-12-06T09:39:48Z","tag":"DCSRelay/LLN0.NamPlt.swRev","value":"V30.205"}
+{"time":"2025-12-06T09:39:49Z","tag":"DCSRelay/VampLPHD1.PhyNam.model","value":"P3U30-5AAA1BCAA"}
