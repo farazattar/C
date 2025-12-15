@@ -1,0 +1,3 @@
+F:/Software/IEC61850 Library/Codes/iec61850_logger/build/CMakeFiles/iec61850_logger.dir
+F:/Software/IEC61850 Library/Codes/iec61850_logger/build/CMakeFiles/edit_cache.dir
+F:/Software/IEC61850 Library/Codes/iec61850_logger/build/CMakeFiles/rebuild_cache.dir
